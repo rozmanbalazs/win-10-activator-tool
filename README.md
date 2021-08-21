@@ -12,3 +12,9 @@ Supports:
 - Win 10 Education N
 - Win 10 Enterprise
 - Win 10 Enterprise N
+
+what's behind the scenes, and why should i use this?
+the program basically runs these commands in a CMD with the selected activation key. Its just faster and easyer to use this tool then to type it by hand.
+- slmgr /ipk {activation key}
+- slmgr /skms kms8.msguides.com
+- slmgr /ato
