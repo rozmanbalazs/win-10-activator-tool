@@ -15,6 +15,6 @@ Supports:
 
 # what's behind the scenes, and why should i use this?
 The program basically runs these commands in a Command Prompt. Its just faster and easyer to use this tool then to type it by hand.
-- slmgr /ipk {unlimited use activation key}
+- slmgr /ipk {unlimited use activation key different for all versions of win10}
 - slmgr /skms kms8.msguides.com
 - slmgr /ato
