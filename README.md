@@ -18,3 +18,5 @@ The program basically runs these commands in a Command Prompt. Its just faster a
 - slmgr /ipk {activation key different for all versions of win10}
 - slmgr /skms kms8.msguides.com
 - slmgr /ato
+
+This program was developed with Python 3.9
