@@ -1,6 +1,8 @@
 # win 10 activator tool
 With the win 10 activator tool you can activate most of the windows 10 versions on your computer
 
+![Screenshot_1](https://user-images.githubusercontent.com/72438034/131740888-628370b0-e1b6-4b3a-9687-b8719bad2fb6.jpg)
+
 Supports:
 - Win 10 Home
 - Win 10 Home N
